@@ -1,5 +1,5 @@
-lolipop-dl
-==========
+lolipop-dl.py
+=============
 
 What is lolipop-dl.py
 ---------------------
