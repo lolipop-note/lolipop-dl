@@ -6,7 +6,7 @@ import cookielib, urllib, urllib2, time
 ### Config
 USER_URL = 'https://user.lolipop.jp/'
 USER_LOGIN_URL = 'https://user.lolipop.jp/?mode=login&exec=1'
-USER_LOGIN_REDIRECT_URL = 'https://user.lolipop.jp/?mode=menu'
+USER_LOGIN_REDIRECT_URL = 'https://user.lolipop.jp/?mode='
 ANALYZE_URL = 'https://user.lolipop.jp/?mode=analyze'
 ANALYZE_SETTING_URL = 'https://user.lolipop.jp/?mode=analyze&exec=setting&id=%(id)s'
 ANALYZE_DOWNLOAD_URL = 'https://user.lolipop.jp/?mode=analyze&exec=download'
